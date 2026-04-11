@@ -1,0 +1,275 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RedShrimp Observed Post",
+  "description": "观测到的小红书帖子结构，用于 viral analysis 与 generate_post_plan。强调可公开观测字段，不要求 GA 伪造不可见数据。",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "post_id",
+    "platform",
+    "observed_at",
+    "source",
+    "post_url",
+    "author",
+    "content_type",
+    "title",
+    "cover",
+    "body_summary",
+    "tags",
+    "engagement",
+    "publish_time",
+    "topic_categories"
+  ],
+  "properties": {
+    "post_id": {
+      "type": "string",
+      "description": "帖子唯一标识；可使用站内 note id 或 GA 自定义主键。",
+      "examples": ["xhs_note_001"]
+    },
+    "platform": {
+      "type": "string",
+      "enum": ["xiaohongshu"],
+      "description": "当前平台，第一阶段固定为小红书。"
+    },
+    "observed_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "本条帖子被采集或观测的时间。",
+      "examples": ["2025-08-10T21:10:00Z"]
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["page_type"],
+      "properties": {
+        "page_type": {
+          "type": "string",
+          "enum": ["search", "feed", "detail", "profile", "collection", "other"],
+          "description": "采集来源页面类型。"
+        },
+        "keyword": {
+          "type": "string",
+          "description": "若来自搜索页，记录搜索关键词。",
+          "examples": ["通勤穿搭"]
+        },
+        "source_url": {
+          "type": "string",
+          "description": "来源页面 URL。",
+          "examples": ["https://www.xiaohongshu.com/search_result?keyword=通勤穿搭"]
+        },
+        "rank_position": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "若采集时有明确列表排序，可记录出现位置。"
+        },
+        "notes": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "对来源环境的补充说明。"
+        }
+      }
+    },
+    "post_url": {
+      "type": "string",
+      "description": "帖子详情页 URL。"
+    },
+    "author": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["author_id", "nickname"],
+      "properties": {
+        "author_id": {
+          "type": "string",
+          "description": "作者唯一标识。",
+          "examples": ["xhs_author_9527"]
+        },
+        "nickname": {
+          "type": "string",
+          "description": "作者昵称。",
+          "examples": ["上班也想穿好看"]
+        },
+        "profile_url": {
+          "type": "string",
+          "description": "作者主页 URL。"
+        },
+        "follower_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "若公开可见则记录；不可见可省略。"
+        },
+        "account_tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "对作者账号定位的简要标签。"
+        }
+      }
+    },
+    "content_type": {
+      "type": "string",
+      "enum": ["image_text", "video", "mixed", "unknown"],
+      "description": "帖子内容形式。"
+    },
+    "title": {
+      "type": "string",
+      "description": "帖子标题或主标题文案。",
+      "examples": ["打工人一周通勤穿搭，150元以内搞定"]
+    },
+    "cover": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["cover_text", "cover_style"],
+      "properties": {
+        "cover_text": {
+          "type": "string",
+          "description": "封面主要可见文案；没有时可传空字符串。"
+        },
+        "cover_style": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "封面风格标签，如 price_anchor、before_after、clean_layout。"
+        },
+        "image_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "图文帖子图片张数；无法判断可省略。"
+        },
+        "visual_notes": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "对封面视觉元素的补充观察。"
+        }
+      }
+    },
+    "body_summary": {
+      "type": "string",
+      "description": "正文结构或内容摘要，不要求逐字全文。",
+      "examples": ["先给出场景，再逐套展示单品与价格，最后总结购买建议。"]
+    },
+    "body_structure": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "正文结构拆解，如 problem_solution/listicle/step_by_step。"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "帖子使用的 hashtag 或主题标签。",
+      "examples": [["通勤穿搭", "平价穿搭", "学生党"]]
+    },
+    "topic_categories": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" },
+      "description": "对帖子所属赛道的归类标签。",
+      "examples": [["fashion", "commute_outfit", "budget_buy"]]
+    },
+    "hook_summary": {
+      "type": "string",
+      "description": "该帖子开头或标题的吸引点摘要。",
+      "examples": ["用价格锚点+一周场景打包降低决策成本"]
+    },
+    "engagement": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["like_count", "collect_count", "comment_count"],
+      "properties": {
+        "like_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "点赞数。"
+        },
+        "collect_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "收藏数。"
+        },
+        "comment_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "评论数。"
+        },
+        "share_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "分享数；若页面不可见可省略。"
+        },
+        "view_count": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "曝光或观看数；若不可见可省略。"
+        },
+        "engagement_notes": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "对互动质量的补充说明。"
+        }
+      }
+    },
+    "publish_time": {
+      "type": "string",
+      "description": "帖子展示的发布时间，可为完整时间、日期或相对时间原文。",
+      "examples": ["2025-08-08 21:15", "2天前"]
+    },
+    "interaction_signals": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "评论区、收藏倾向、争议点等弱结构信号。",
+      "examples": [["评论多问链接", "收藏明显高于评论"]]
+    },
+    "risk_flags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "可见风险标记，如疑似夸张承诺、强营销感、搬运感。"
+    },
+    "notes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "其它观测备注。"
+    }
+  },
+  "examples": [
+    {
+      "post_id": "xhs_note_001",
+      "platform": "xiaohongshu",
+      "observed_at": "2025-08-10T21:10:00Z",
+      "source": {
+        "page_type": "search",
+        "keyword": "通勤穿搭",
+        "source_url": "https://www.xiaohongshu.com/search_result?keyword=通勤穿搭",
+        "rank_position": 3,
+        "notes": ["搜索结果第一页采集"]
+      },
+      "post_url": "https://www.xiaohongshu.com/explore/6897example",
+      "author": {
+        "author_id": "xhs_author_9527",
+        "nickname": "上班也想穿好看",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/author9527",
+        "follower_count": 128000,
+        "account_tags": ["fashion", "commute_outfit"]
+      },
+      "content_type": "image_text",
+      "title": "打工人一周通勤穿搭，150元以内搞定",
+      "cover": {
+        "cover_text": "一周通勤穿搭｜150元内",
+        "cover_style": ["price_anchor", "clean_layout", "outfit_grid"],
+        "image_count": 7,
+        "visual_notes": ["浅色背景", "人物居中", "价格数字突出"]
+      },
+      "body_summary": "先给出一周场景拆分，再逐套展示单品和价格，最后总结购买建议。",
+      "body_structure": ["weekly_bundle", "scene_split", "item_price_breakdown"],
+      "tags": ["通勤穿搭", "平价穿搭", "打工人穿搭"],
+      "topic_categories": ["fashion", "commute_outfit", "budget_buy"],
+      "hook_summary": "一周场景打包+低预算价格锚点",
+      "engagement": {
+        "like_count": 12400,
+        "collect_count": 9800,
+        "comment_count": 632,
+        "engagement_notes": ["收藏高于评论，偏实用向内容"]
+      },
+      "publish_time": "2025-08-08 21:15",
+      "interaction_signals": ["评论多问单品链接", "收藏明显高于评论"],
+      "risk_flags": ["homogeneous_topic"],
+      "notes": ["封面和标题都强调低预算与场景完整性"]
+    }
+  ]
+}

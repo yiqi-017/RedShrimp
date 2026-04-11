@@ -1,0 +1,58 @@
+{
+  "task": "generate_post_plan",
+  "request_id": "rs_example_plan_001",
+  "platform": "xiaohongshu",
+  "account_profile": {
+    "account_name": "示例家居号",
+    "account_positioning": "小户型收纳与家居布置",
+    "target_audience": [
+      "租房青年",
+      "新婚家庭"
+    ],
+    "content_styles": [
+      "实用攻略",
+      "清单总结"
+    ]
+  },
+  "recent_posts": [
+    {
+      "post_id": "recent_001",
+      "title": "出租屋厨房收纳，3个低成本改造",
+      "content_type": "image_text",
+      "summary": "介绍挂钩、分层架、抽屉盒三种收纳方法",
+      "publish_time": "2025-08-01T12:00:00Z",
+      "metrics": {
+        "likes": 86,
+        "collects": 54,
+        "comments": 9
+      }
+    }
+  ],
+  "observed_posts": [
+    {
+      "post_id": "obs_001",
+      "title": "小户型厨房显大，先换这5个收纳动作",
+      "author_name": "收纳实验室",
+      "content_type": "image_text",
+      "summary": "通过前后对比图展示台面清空、抽屉分区和垂直收纳",
+      "tags": [
+        "小户型",
+        "厨房收纳"
+      ],
+      "metrics": {
+        "likes": 1200,
+        "collects": 980,
+        "comments": 113
+      }
+    }
+  ],
+  "goal": "increase_followers",
+  "constraints": {
+    "platform": "xiaohongshu",
+    "content_type": "image_text",
+    "risk_boundary": [
+      "no_false_claims",
+      "no_over_marketing"
+    ]
+  }
+}
