@@ -1,0 +1,1206 @@
+{
+  "version": 1,
+  "run_id": "scan-trace-2026-04-14T18-30-18+08-00",
+  "started_at": "2026-04-14T18:30:18+08:00",
+  "updated_at": "2026-04-14T19:30:42+08:00",
+  "mode": "list_feeds_homepage",
+  "login_status": "logged_in",
+  "live_capture_file": "C:/Users/Hp/Desktop/y4s2/lab/RedShrimp/history/captured_posts_2026-04-14T18-30-18+08-00.txt",
+  "scanned_count": 30,
+  "recent_hits": 0,
+  "high_hits": 7,
+  "scans": [
+    {
+      "scanned_at": "2026-04-14T18:32:54+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69ddf045000000001d01a78b",
+      "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITfTweG19C2a_GOQO-KX5-hI=",
+      "title": "ntu26fall ai/ds还会发offer吗",
+      "author": "贝克街溜子",
+      "raw_desc": "焦虑中...\n不知道还会发几轮offer\n再拿不到只能啃老了\n\t\n#申请季[话题]# #硕士留学[话题]# #ntu[话题]#",
+      "published_at": "2026-04-14T15:44:05+08:00",
+      "hours_since_publish": 2.81,
+      "metrics": {
+        "likedCount": 4,
+        "commentCount": 6,
+        "collectedCount": 0,
+        "proxy_ces": 28
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": false
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:33:03+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69d32470000000001a02449e",
+      "xsecToken": "ABBDdUbZPNCpRDEV8BKyKYG9vc2AT1NEM9qkvkfw3fYCk=",
+      "title": "50岁的医学老专家使用claude code的感受",
+      "author": "L（已有闺闺）",
+      "raw_desc": "#老专家[话题]# #医学科普[话题]# #人工智能[话题]# #医学科研[话题]# #ai医学[话题]# #智能体[话题]#",
+      "published_at": "2026-04-06T11:11:44+08:00",
+      "hours_since_publish": 199.36,
+      "metrics": {
+        "likedCount": 2476,
+        "commentCount": 271,
+        "collectedCount": 1811,
+        "proxy_ces": 5371
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:33:13+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69dd09db000000001d018156",
+      "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITU-rTmkh1A8MdTi-dMD6cn4=",
+      "title": "web3实习生和卖酱香饼哪个更有前途？",
+      "author": "Allen",
+      "raw_desc": "大家不会都选酱香饼吧[坏笑R]\n\t\n最近小红书被这个灵魂拷问刷屏：摆摊卖酱香饼稳赚不赔，Web3实习生又卷又不稳定，到底选哪个更有前途？\n\t\n首先酱香饼不能在p2、p3里卖[斜眼R][斜眼R]，但那是web3的员工以及数字游民的常态\n\t\n如果只看“短期收益”，卖酱香饼可能更直接——选个好地段，口味稳定，一天几百上千不是问题，现金流清晰、反馈即时，很有安全感。\n\t\n但如果把时间拉长一点，问题就变了～\n\t\n1️⃣天花板：你是在消耗自己，还是在拓展自己？\n卖酱香饼，是一种很踏实的生活：时间固定、节奏稳定，日子有烟火气，但久了容易被困在同一个圈子里。\n而做web3员工，更像进入一个不断变化的环境。刚开始会迷茫，但你会接触不同的人、不同的做事方式，也开始理解一个行业是怎么运转的。\n在像Bitget这样的环境里，你看到的不只是任务，而是人与人 与用户之间的连接。\n慢慢你会发现，真正变化的，是你看世界的方式\n\t\n2️⃣成长路径：重复 vs 复利\n卖酱香饼，你每天做的事情差不多，熟练度越来越高，但本质是“重复”。\nweb3实习生，前期很痛苦——看不懂、跟不上、被碾压，但一旦跨过那个门槛，你的认知是会“复利增长”的。\n像我自己，研究生期间纯小白，从最开始看不懂交易，到慢慢理解产品逻辑，再到能参与一些实际项目，甚至接触像Bitget这种多样化的平台的运营或推广思路，你会发现自己也在不断升级。\n\t\n最后说句大实话：\n🙉不是web3比酱香饼高级，\n🙊而是你想要的是“今天的稳定”，还是“未来的可能性”。\n两条路都没错，只是方向不同。🫵\n#web3[话题]# #互联网大厂[话题]# #实习[话题]# #web3学习[话题]# #bitget[话题]##互联网生活[话题]#",
+      "published_at": "2026-04-13T23:20:59+08:00",
+      "hours_since_publish": 19.2,
+      "metrics": {
+        "likedCount": 15,
+        "commentCount": 23,
+        "collectedCount": 0,
+        "proxy_ces": 107
+      },
+      "pattern_summary": {
+        "hook_type": "提问 / 求建议",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": [
+          "怎么"
+        ]
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:33:23+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "fashion_outfit",
+      "id": "69dcd580000000001d01d8c9",
+      "xsecToken": "ABNvylDWLdDgQwwIavgw6mWbWxx1SsQSC8G1DdXko9_cM=",
+      "title": "崽 为了给你改变基因 给你找了个181的爹",
+      "author": "一妹er",
+      "raw_desc": "#146和181[话题]# #姐弟恋[话题]# #情侣穿搭[话题]#",
+      "published_at": "2026-04-13T19:37:36+08:00",
+      "hours_since_publish": 22.93,
+      "metrics": {
+        "likedCount": 1197,
+        "commentCount": 2966,
+        "collectedCount": 138,
+        "proxy_ces": 13199
+      },
+      "pattern_summary": {
+        "hook_type": "争议 / 站队讨论",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:33:33+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69db51700000000023026c26",
+      "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJcjbSeFFljegvazRxHs0x88E=",
+      "title": "男生带皮筋证明有女朋友，那女生带什么证明",
+      "author": "阿伟很有趣",
+      "raw_desc": "#女生[话题]# #男女[话题]# #搞笑[话题]# #搞笑日常[话题]# #学生时代[话题]# #迷你世界[话题]# #迷你世界十周年[话题]#",
+      "published_at": "2026-04-12T16:01:52+08:00",
+      "hours_since_publish": 50.53,
+      "metrics": {
+        "likedCount": 3493,
+        "commentCount": 1367,
+        "collectedCount": 512,
+        "proxy_ces": 9473
+      },
+      "pattern_summary": {
+        "hook_type": "争议 / 站队讨论",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:33:42+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69cfe16d0000000023013605",
+      "xsecToken": "ABU7jl9I2TVfnOrIooqI1DHR741jMn2Bkkd38fyOw_H1E=",
+      "title": "求学长姐分享！TG Bond",
+      "author": "一只猫猫缓缓路过",
+      "raw_desc": "本来拿到NTU的ASEAN就打算去了（课程是CS），但周围有朋友劝我多考虑一下那三年的bond，主要有两个原因：\n\t\n1.如果就业市场不好，可能找不到专业对口（甚至更差）的工作，白费三年。\n2.想要master深造的话，工作三年很难再拿到好学校的offer和奖学金。哪怕毕业的时候得到好的offer，也会因为bond没办法过去。\n\t\n有劝我试试看其他地区的大学，比如中国或者马来西亚私立，没有bond且比较可以负担。因此，想向学长姐请教：\n\t\n1.TG三年bond对你造成什么影响？\n2.为了去新加坡uni升学被bond三年值得吗？\n3.任何相关经验！！！\n\t\n求求了！#NTU[话题]# #NUS[话题]# #新加坡留學[话题]# #新加坡[话题]# #cs[话题]# #NTU[话题]# cs #留学[话题]# #计算机专业[话题]#  #中国留学[话题]# #国际生[话题]#",
+      "published_at": "2026-04-03T23:49:01+08:00",
+      "hours_since_publish": 258.74,
+      "metrics": {
+        "likedCount": 35,
+        "commentCount": 46,
+        "collectedCount": 26,
+        "proxy_ces": 245
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": [
+          "值得"
+        ]
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:42:02+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69d8beed000000001a0245ed",
+      "xsecToken": "ABEXEkAQRVaSrMzc6a8GXsEY2VvDS4kKsdx8sNCegFK2s=",
+      "title": "马来西亚留学申请",
+      "author": "Doris",
+      "raw_desc": "请问大家，我学校开的绩点计算说明是不是不可以哇？马来西亚要4.0的，这种要怎么开呢#马来亚大学[话题]# #马来西亚理科大学[话题]# #马来西亚留学[话题]# #留学[话题]##留学申请指南[话题]# #绩点均分[话题]##馬來西亞留学[话题]#",
+      "published_at": "2026-04-10T17:12:13+08:00",
+      "hours_since_publish": 97.5,
+      "metrics": {
+        "likedCount": 7,
+        "commentCount": 13,
+        "collectedCount": 5,
+        "proxy_ces": 64
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "先结论再展开",
+        "emotion_words": [
+          "怎么"
+        ]
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:42:11+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "career_work",
+      "id": "69ce7d6200000000230104bd",
+      "xsecToken": "AB8nC8g_uIWiUj6SeEWRjygZxBypAb8AKNPobnswBb8A4=",
+      "title": "实习offer(都是同期,有点懵[doge])",
+      "author": "Tang，",
+      "raw_desc": "实习offer(都是同期,有点懵[doge])\n\t\n自营10亿qr1k5[色色R]：\npros: 薪资高，是QR，初创团队小能接触核心业务\ncons: 公司branding，在北京(属鼠base上海)\n\t\n宇宙厂算法 500？：\nPros&cons: 宇宙厂[doge]\n\t\n商汤量化ai算法 400:\nPros: 量化+ai对口完了，先当乙方后当甲，学术偶像也是这里出来的\ncons: 好像红薯上说公司不行了？\n\t\n还有两个：\n\t\n国内某顶级百亿私募ds 3000:\n过了三四轮面试总算终面了所以放在这，明确是暑期的，和现在选的应该不冲突（bushi\n\t\nGPS之一算法ds 300:\n和主播biomed经历match完了，现在已经在做着了其实。。。（上面都是接之后下的\n\t\n放弃掉的offer列不过来了。[doge]补一点career plan：\n美Top Lab Phd ～ 美顶hf qr/ds (给的太多了）> FAANG R&D/Tech岗 > 国内qr ～ 美一般Phd > 国内大厂\n\t\n打算现在到9月前做2～3段[哇R][哇R]\n\t\n#互联网大厂[话题]# #26fall[话题]# #offer[话题]#",
+      "published_at": "2026-04-02T22:29:54+08:00",
+      "hours_since_publish": 284.2,
+      "metrics": {
+        "likedCount": 29,
+        "commentCount": 34,
+        "collectedCount": 11,
+        "proxy_ces": 176
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:42:21+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "student_life",
+      "id": "69d98c98000000001a029a60",
+      "xsecToken": "ABTxmhFIMI2wCYeLVQnI8_50f4LoI-zpUdeM6aWayIEP0=",
+      "title": "香港科技大学！实考5门，雅思7.5",
+      "author": "YHTIShalo",
+      "raw_desc": "#雨花台中学国际高中[话题]# #香港科技大学[话题]# #Alevel[话题]#",
+      "published_at": "2026-04-11T07:49:44+08:00",
+      "hours_since_publish": 82.88,
+      "metrics": {
+        "likedCount": 20,
+        "commentCount": 0,
+        "collectedCount": 10,
+        "proxy_ces": 30
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:42:30+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "food_dining",
+      "id": "69dbb255000000001a02c7cf",
+      "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJclog8zxu_VtrWNSidS8VL8A=",
+      "title": "清华食堂双轨制：一顿可以6.25，也可以25",
+      "author": "RuikeasRick",
+      "raw_desc": "有几个朋友在跟我说，你们清华食堂六块钱可以吃的很好，但又朋友说来了之后发现其实多贵呀，原因就是清华食堂是双轨制。紫荆二楼的窗口由国家补贴，¥6.25确实就可以吃的很不错，图一就是打了三个菜，一两米饭，不到八块钱。但是也有一些市场化的窗口卖得比较贵，比如图二就要20多，图三早餐，四个烧卖就要15\n#大学食堂[话题]# #校园里的美食[话题]# #学校食堂[话题]# #食堂[话题]# #食堂打卡[话题]#",
+      "published_at": "2026-04-12T22:55:17+08:00",
+      "hours_since_publish": 43.79,
+      "metrics": {
+        "likedCount": 2656,
+        "commentCount": 313,
+        "collectedCount": 300,
+        "proxy_ces": 4208
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "先结论再展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:42:40+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69d34c49000000001a031000",
+      "xsecToken": "ABBDdUbZPNCpRDEV8BKyKYG2FlMEM4mRIvaujXAvDj9Vs=",
+      "title": "大马留学生开本地买的车去shell加正常价格的95，工作人员说外国人不允许加95",
+      "author": "iiii",
+      "raw_desc": "大马留学生开本地买的车去shell加正常价格的95，工作人员说外国人不允许加95的油了。#马来西亚[话题]# #🇲🇾[话题]##马来西亚95号汽油价格[话题]# #马来西亚加油站[话题]#",
+      "published_at": "2026-04-06T14:01:45+08:00",
+      "hours_since_publish": 196.68,
+      "metrics": {
+        "likedCount": 162,
+        "commentCount": 270,
+        "collectedCount": 24,
+        "proxy_ces": 1266
+      },
+      "pattern_summary": {
+        "hook_type": "争议 / 站队讨论",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:42:49+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "tech_ai",
+      "id": "69dacbcb000000001a028066",
+      "xsecToken": "ABcsy3HbOPEid9M8akL-m6tkQ_I2nDa7PmHhkM2lruRLU=",
+      "title": "什么是skills怎么安装和使用",
+      "author": "卡卡肉",
+      "raw_desc": "不懂的朋友在评论区里问 俺来解答\n\t\n#个人开发者[话题]# #vibecoding[话题]# #AI工具[话题]# #AI人工智能[话题]# #skills[话题]# #ChatGPT[话题]##agent[话题]# #claude[话题]# #克劳德[话题]#",
+      "published_at": "2026-04-12T15:00:21+08:00",
+      "hours_since_publish": 51.71,
+      "metrics": {
+        "likedCount": 488,
+        "commentCount": 13,
+        "collectedCount": 563,
+        "proxy_ces": 1103
+      },
+      "pattern_summary": {
+        "hook_type": "提问 / 求建议",
+        "structure": "先结论再展开",
+        "emotion_words": [
+          "怎么"
+        ]
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:14:29+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "student_life",
+      "id": "69d869400000000023012d00",
+      "xsecToken": "ABEXEkAQRVaSrMzc6a8GXsEWymMrr7hWeln9kZGgm0msU=",
+      "title": "因为20万想放弃985硕士的就读机会",
+      "author": "浦东蕾哈娜",
+      "raw_desc": "穷人确实很难，寸步难行\n#金融[话题]# #华东师范大学[话题]# #985[话题]#",
+      "published_at": "2026-04-10T11:06:40+08:00",
+      "hours_since_publish": 104.13,
+      "metrics": {
+        "likedCount": 497,
+        "commentCount": 272,
+        "collectedCount": 142,
+        "proxy_ces": 1727
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:14:39+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69bbac8f000000001f006483",
+      "xsecToken": "ABgeyKlZk2sbX2ng2VnLB-T4MHGLyaswjibTE3-J9DuvI=",
+      "title": "🇸🇬poly|凌晨1点打车借电脑赶期末😭",
+      "author": "xh在人间实习",
+      "raw_desc": "第一次正儿八经地面对镜头去叙述故事 感觉说话有点没气[笑哭R] #intp[话题]# 正式打算开始做个博主啦！要是有什么建议都可以提出来哦~\n#当代年轻人[话题]# #拖延症[话题]# #新加坡[话题]# #poly[话题]#",
+      "published_at": "2026-03-19T15:58:07+08:00",
+      "hours_since_publish": 627.28,
+      "metrics": {
+        "likedCount": 11,
+        "commentCount": 4,
+        "collectedCount": 1,
+        "proxy_ces": 28
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:14:48+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "tech_ai",
+      "id": "69de20970000000021038ea4",
+      "xsecToken": "ABCowlLzAdHdY5TdNecIEe4KNdFOqj58o2szIQzgr3Jwg=",
+      "title": "AI Networking Offer选择",
+      "author": "nan",
+      "raw_desc": "楼主运气爆炸收到了如图三个组的offer\n想了解一下这几个组的前景以及工作强度\n\t\n字节高速网络是做大规模GPU集群的网络开发，感觉更侧重于集群视角下的优化和诊断，涉及拥塞控制，集合通信还有性能观测，HM是位业界知名人士。\n\t\nNVIDIA AI Networking组主要负责和前沿客户对接，辅助bring-up AI数据中心网络，诊断性能问题以及解决客户的技术需求。当红炸子鸡不必多说，不过担心工作强度会太高\n\t\nGPU Fabric组负责NVSwitch的Control Plane Software，控制跨GPU memory access的routing。感觉是NV挺核心的一个组，但整个市场做Scale up solution的公司寥寥无几，感觉进去之后很难再出来。\n\t\n#offer选择[话题]# #字节跳动[话题]# #英伟达[话题]# #NVIDIA[话题]# #高速网络[话题]#",
+      "published_at": "2026-04-14T19:10:15+08:00",
+      "hours_since_publish": 0.08,
+      "metrics": {
+        "likedCount": 0,
+        "commentCount": 0,
+        "collectedCount": 0,
+        "proxy_ces": 0
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:14:57+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69dca249000000001d01de1d",
+      "xsecToken": "ABNvylDWLdDgQwwIavgw6mWWXrMzuekOemeOl453nXzFg=",
+      "title": "中留服最新政策202604",
+      "author": "阅禾留学",
+      "raw_desc": "",
+      "published_at": "2026-04-13T15:59:05+08:00",
+      "hours_since_publish": 27.26,
+      "metrics": {
+        "likedCount": 48,
+        "commentCount": 22,
+        "collectedCount": 22,
+        "proxy_ces": 158
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:15:06+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69dd65aa000000001d01c9be",
+      "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITSDDFXIqKUnSiwEQW-L42bA=",
+      "title": "北美求职经验分享：胆子越大，offer越好❗️",
+      "author": "北美丨升哥规划咨询",
+      "raw_desc": "#北美求职[话题]# #求职[话题]# #北美升哥[话题]# #斩获offer的秘诀[话题]# #留学生找工作[话题]# #北美找工作[话题]# #留学生求职[话题]# #数据分析求职[话题]# #找工作[话题]# #面试技巧[话题]#",
+      "published_at": "2026-04-14T05:52:42+08:00",
+      "hours_since_publish": 13.37,
+      "metrics": {
+        "likedCount": 19,
+        "commentCount": 11,
+        "collectedCount": 23,
+        "proxy_ces": 86
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:15:15+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "career_work",
+      "id": "69cd69ea000000001e00c0c1",
+      "xsecToken": "ABGtFRlp7vxcgPvy0bTfv1SOYuAVHVYYAO8bW_LL5Ftsc=",
+      "title": "Learn MiniMind——系统学习LLM训练全流程",
+      "author": "bcefghj",
+      "raw_desc": "bcefghj/learn-minimind\n\t\n从零基础到面试通关 —— 22节课彻底搞懂大语言模型 | Learn MiniMind: 系统化学习LLM训练全流程\n\t\n这个项目是什么？\n用 24 节课 + 190 道面试八股文 + 15 张哆啦A梦漫画图解，把一个完全零基础的小白，带到能在面试中自信讲述\"我从零训练了一个大语言模型\"的水平。\nMiniMind 是一个仅需 3 块钱、2 小时就能从零训练出 64M 参数 GPT 的开源项目，在 GitHub 上获得了 45k+ Star。本仓库是 MiniMind 的系统化学习教程 + 面试备战手册，专为以下人群设计：\n零基础小白 —— 不懂 Python、不懂深度学习也能看懂，配有哆啦A梦漫画图解\n求职面试者 —— 190+ 道面试八股文 + STAR 面试稿 + 简历撰写指南\n想动手实践 —— 每节课都有可运行的 PyTorch 实验代码\n\t\n#数字造梦季[话题]# #星河入梦抽象二创大赛[话题]# #角逐IP之光[话题]# #大模型[话题]# #人工智能发展[话题]# #深度学习[话题]# #编程[话题]# #多模态人工智能[话题]# #人工智能就业[话题]#",
+      "published_at": "2026-04-02T02:54:35+08:00",
+      "hours_since_publish": 304.34,
+      "metrics": {
+        "likedCount": 329,
+        "commentCount": 18,
+        "collectedCount": 540,
+        "proxy_ces": 941
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:24:58+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69db420f0000000023011516",
+      "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJcpfyT_H_5FAEzajTQ-JCn-Y=",
+      "title": "清本清研为什么过得这么不好",
+      "author": "清华榕榕",
+      "raw_desc": "清本清研为什么过得这么不好",
+      "published_at": "2026-04-12T14:56:15+08:00",
+      "hours_since_publish": 52.48,
+      "metrics": {
+        "likedCount": 174,
+        "commentCount": 120,
+        "collectedCount": 119,
+        "proxy_ces": 773
+      },
+      "pattern_summary": {
+        "hook_type": "提问 / 求建议",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": [
+          "为什么"
+        ]
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:25:08+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69c1b0fc0000000023007bbd",
+      "xsecToken": "ABy0EyqlCu_7YU8jexH8IKWTvqBjbR3P8R1MUlkVJYWZA=",
+      "title": "🇬🇧毕业留子没找到工作的一天做什么呢？",
+      "author": "扒小扒大魔王",
+      "raw_desc": "#英国留学生[话题]# #留子毕业[话题]# #英国[话题]# #留子糊弄学[话题]# #留学生日常[话题]# #毕业后的人生旷野[话题]# #没工作也得好好生活[话题]# #我的日常Vlog[话题]#",
+      "published_at": "2026-03-24T05:30:36+08:00",
+      "hours_since_publish": 517.91,
+      "metrics": {
+        "likedCount": 313,
+        "commentCount": 39,
+        "collectedCount": 60,
+        "proxy_ces": 529
+      },
+      "pattern_summary": {
+        "hook_type": "提问 / 求建议",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:25:18+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69d654c3000000002302484a",
+      "xsecToken": "ABYfQDEyEAMV_D5rXPBWNDXsRTdYMJ-7smosCDj7OK8-0=",
+      "title": "刚入职没多久",
+      "author": "小妖怪",
+      "raw_desc": "其实我后端写得也不是很好，但是公司叫我写全栈，前端用ai写，感觉不符合我的职业选择#后端开发[话题]# #java[话题]#",
+      "published_at": "2026-04-08T21:14:43+08:00",
+      "hours_since_publish": 142.18,
+      "metrics": {
+        "likedCount": 39,
+        "commentCount": 271,
+        "collectedCount": 20,
+        "proxy_ces": 1143
+      },
+      "pattern_summary": {
+        "hook_type": "争议 / 站队讨论",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:25:27+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69db6e0f0000000021011498",
+      "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJcm35aahh8n6onq0Qn3_cBN8=",
+      "title": "人间理想 我自己闯",
+      "author": "小宁姐姐",
+      "raw_desc": "#小宁姐姐[话题]# #成长[话题]#",
+      "published_at": "2026-04-12T18:03:59+08:00",
+      "hours_since_publish": 49.36,
+      "metrics": {
+        "likedCount": 575,
+        "commentCount": 137,
+        "collectedCount": 95,
+        "proxy_ces": 1218
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:25:38+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69cfcc7b000000001f006560",
+      "xsecToken": "ABU7jl9I2TVfnOrIooqI1DHfvujGM_9xQs05mss_xT8Xs=",
+      "title": "我加了两个模块都有很大的提升，但是我的模块代码都是ai写的怎么办！导师让我发论文",
+      "author": "西红柿",
+      "raw_desc": "我加了两个模块都有很大的提升，但是我的模块代码都是ai写的怎么办！导师让我发论文，这能发吗？#深度学习[话题]# #机器学习[话题]# #计算机视觉[话题]#",
+      "published_at": "2026-04-03T22:19:39+08:00",
+      "hours_since_publish": 261.1,
+      "metrics": {
+        "likedCount": 343,
+        "commentCount": 102,
+        "collectedCount": 217,
+        "proxy_ces": 968
+      },
+      "pattern_summary": {
+        "hook_type": "提问 / 求建议",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": [
+          "怎么"
+        ]
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:25:47+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69dba1af000000002301102e",
+      "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJciukBM8u9zp4xbcy30MD5zs=",
+      "title": "🇲🇾女生择偶一定要找吃你颜的男人",
+      "author": "Chalette 女皇👑",
+      "raw_desc": "🇲🇾女生择偶一定要找吃你颜的男人\n\\#外貌协会[话题]# #身材好[话题]# #有钱[话题]# #漂亮的女生[话题]# #情感[话题]# #女性成长[话题]# #女性必看[话题]# #我的观点[话题]# #马来西亚[话题]# #chalette[话题]#\n#记录吧就现在[话题]#",
+      "published_at": "2026-04-12T21:44:15+08:00",
+      "hours_since_publish": 45.69,
+      "metrics": {
+        "likedCount": 201,
+        "commentCount": 24,
+        "collectedCount": 31,
+        "proxy_ces": 328
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "先结论再展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:27:19+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "food_dining",
+      "id": "69d0bdf9000000001d01c7ea",
+      "xsecToken": "ABUQyC6HLls_a6IS8_JPv-43qbDxfzZxaBjDZruY05hUQ=",
+      "title": "新加坡会惩罚每一个不提前预定约的P人",
+      "author": "nim",
+      "raw_desc": "4-5🈷️要去新加坡的姐妹！去之前一定要提前予约景点🎫不然容易白跑或者耽误时间\n#P人友好旅行[话题]# #新加坡旅游[话题]# #新加坡[话题]# #新加坡美食攻略[话题]# #新加坡旅游攻略[话题]# #旅游攻略[话题]# #新加坡生活[话题]# #大学生出国旅行[话题]##我的精神地标之旅[话题]# #新加坡🇸🇬[话题]#",
+      "published_at": "2026-04-04T15:30:01+08:00",
+      "hours_since_publish": 243.96,
+      "metrics": {
+        "likedCount": 798,
+        "commentCount": 46,
+        "collectedCount": 1029,
+        "proxy_ces": 2011
+      },
+      "pattern_summary": {
+        "hook_type": "清单 / 攻略",
+        "structure": "先结论再展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:27:28+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "general",
+      "id": "69cbfa45000000001a026152",
+      "xsecToken": "AB_V16rbp74pSlTsmlwYdrwI0uKnYZb6vTtk1jfEvtaJU=",
+      "title": "复旦这个姐妹太励志了❗️ 抱抱她",
+      "author": "Achilleser",
+      "raw_desc": "晚上和朋友出去吃饭看到了她，回来后发现她还在这里。无论在做什么都祝她顺利❗️[哭惹R][哭惹R][哭惹R]\n#感动瞬间[话题]# #雌鹰般的女人留下眼泪[话题]# #女性当自强[话题]# #来自陌生人的善意[话题]# #女生永远帮助女生[话题]# #热泪盈眶的瞬间[话题]# #感动[话题]#",
+      "published_at": "2026-04-01T00:45:57+08:00",
+      "hours_since_publish": 330.69,
+      "metrics": {
+        "likedCount": 0,
+        "commentCount": 1234,
+        "collectedCount": 1502,
+        "proxy_ces": 6438
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "先结论再展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:27:38+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "career_work",
+      "id": "69ce4e5a0000000023027694",
+      "xsecToken": "AB8nC8g_uIWiUj6SeEWRjygWCR6jwggIaSwYLiQuHNeVg=",
+      "title": "ai时代苍穹外卖真不如敲agent项目",
+      "author": "雨落秋泽",
+      "raw_desc": "敲苍穹外卖的时候一度感觉java没有任何难点，因为全是无聊的crud，没有索引优化没有压测，只有前后端打通，跟tlias系统完全一样，最多最多是让你有了调试成功的喜悦感，但是能学到0件东西。\n先不说ai时代最基本的crud工程师全部失业了，就算没ai你真进公司大概率这种活也轮不到你做的，公司不会放心把DAL层交给新手，不然写个慢查询整个应用都炸了，所以新人连当crud工程师的资格都没有，学来更没啥用。\n而且不会真有人把这玩意写在简历上吧……\n与其相反的是点评还是值得一看的，因为大企业里面人均用Redis，会redis技术栈很加分，面试也基本是必考。\n有这个时间多摸摸cc，学点智能旅行助手（又称agent界的苍穹外卖），不说多加分吧起码证明你没掉队。\n过来人的建议，希望大家都不要再踩坑了[合十R][合十R]\n#后端开发[话题]# #java[话题]# #大模型[话题]# #苍穹外卖[话题]# #黑马程序员[话题]# #日常实习[话题]#",
+      "published_at": "2026-04-02T19:09:14+08:00",
+      "hours_since_publish": 288.31,
+      "metrics": {
+        "likedCount": 404,
+        "commentCount": 77,
+        "collectedCount": 414,
+        "proxy_ces": 1126
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": [
+          "值得"
+        ]
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:27:49+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69d85783000000002202656a",
+      "xsecToken": "ABEXEkAQRVaSrMzc6a8GXsEWbFiv-OPArm3de2vW9YPjc=",
+      "title": "走进新加坡国立大学，感受亚洲顶尖学府的学术氛围。 目光所及皆是向上的力量，愿每一",
+      "author": "白四小姐",
+      "raw_desc": "走进新加坡国立大学，感受亚洲顶尖学府的学术氛围。 目光所及皆是向上的力量，愿每一份努力，都能奔赴更广阔的未来。#新加坡国立大学[话题]#  #NUS[话题]#  #留学[话题]#",
+      "published_at": "2026-04-10T09:50:59+08:00",
+      "hours_since_publish": 105.61,
+      "metrics": {
+        "likedCount": 1,
+        "commentCount": 0,
+        "collectedCount": 0,
+        "proxy_ces": 1
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": false
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:27:58+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "career_work",
+      "id": "69dba4a800000000220270c9",
+      "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJco9IL1i7F94HM-C7eHH3shU=",
+      "title": "澳洲码农蓝翔进修日记7-人生的第一块混凝土",
+      "author": "悉尼momo",
+      "raw_desc": "#RED新生代创作大赛[话题]#  #生活试验[话题]# #码农[话题]# #澳洲生活[话题]# #码农转行[话题]# #程序员[话题]# #悉尼生活[话题]# #澳洲蓝领[话题]# #躺平[话题]#",
+      "published_at": "2026-04-12T21:56:57+08:00",
+      "hours_since_publish": 45.52,
+      "metrics": {
+        "likedCount": 3833,
+        "commentCount": 341,
+        "collectedCount": 1029,
+        "proxy_ces": 6226
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T19:28:08+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "career_work",
+      "id": "69d30d7b000000001a023d56",
+      "xsecToken": "ABBDdUbZPNCpRDEV8BKyKYGxHGBlDv4gid1z6y6YA8yI4=",
+      "title": "阿里千问团队招实习（基模/Agent强化学习）",
+      "author": "栗栗子老师",
+      "raw_desc": "【实习招聘】Qwen团队AI Agent与强化学习方向实习生\nQwen团队现开放实习生岗位，诚邀对 AI Agent、强化学习感兴趣的同学加入，与我们共同构建下一代 Computer-Use Agent Model！\n1.  Black-box Agent RL / Online Learning\n•  Black-box reward / value function建模与优化\n•  Online RL框架设计，支持Agent在真实环境中持续探索与策略迭代\n•  Long-horizon RL下的credit assignment与multi-step reasoning研究\n2.  Computer-Use Agent (Claw/CLI Agent) 建设\n•  海量真实用户交互数据scale（办公场景、流程自动化、coding等），构建部署-反馈-回流-训练的完整链路\n•  构建code/cli centric的agent model，通过bash、skills、mcp等方式执行各类数字任务\n•  Ai Agents的自进化，探索vibe research等场景，覆盖PaperBench、MLE-Bench等\n3. CLI Anything\n•  万物皆可CLI：参与将任意网站、桌面应用、本地工具统一转化为标准化CLI，为Agent构建开放式工具环境\n•  基于Web与Desktop App构成的live environments训练open-ended agents\n简历请发送至：busi.wp@alibaba-inc.com\n欢迎有意向的同学投递。",
+      "published_at": "2026-04-06T09:33:47+08:00",
+      "hours_since_publish": 201.91,
+      "metrics": {
+        "likedCount": 78,
+        "commentCount": 13,
+        "collectedCount": 117,
+        "proxy_ces": 247
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    }
+  ],
+  "status": "done",
+  "keywords": [
+    "homepage"
+  ],
+  "last_error": "list_feeds returned no note items",
+  "last_scan_at": "2026-04-14T19:28:08+08:00",
+  "last_scanned_title": "阿里千问团队招实习（基模/Agent强化学习）",
+  "ended_at": "2026-04-14T19:30:42+08:00"
+}

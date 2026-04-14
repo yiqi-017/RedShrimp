@@ -1,0 +1,364 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-14T18:30:18+08:00",
+  "runs": [
+    {
+      "run_id": "2026-04-14-general-recent-1h-stream-001",
+      "captured_at": "2026-04-14T16:37:26+08:00",
+      "purpose": "recent_1h_breakouts",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "学生党",
+        "穿搭",
+        "探店",
+        "搞钱"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "selection_rule": "发布时间距抓取时间不超过 1 小时，并按 proxy_ces 排序。",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-general-recent-1h-stream-001",
+      "captured_at": "2026-04-14T16:42:54+08:00",
+      "purpose": "recent_1h_breakouts",
+      "niche": "general",
+      "keywords": [
+        "验证严格的纯mcomp",
+        "马来西亚TRX 大楼🇲",
+        "Ai infra 7年经",
+        "这周四SG留学生招聘会，",
+        "外国人找中国工作",
+        "nus ce maste",
+        "这是为什么呀",
+        "🇲🇾｜98年吉隆坡，",
+        "和Gemini聊了2天才",
+        "住酒店床头写的超清直播是",
+        "nus dsml提前批难",
+        "【独家】孙哥养了几只龙虾"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 1,
+        "selection_rule": "发布时间距抓取时间不超过 1 小时，并按 proxy_ces 排序。",
+        "top_topics": [
+          {
+            "topic": "这是为什么呀",
+            "reason": "这是为什么呀  下发布 0.82 小时内，proxy_ces=40。"
+          }
+        ]
+      },
+      "posts": [
+        {
+          "found_at": "2026-04-14T16:44:08+08:00",
+          "captured_at": "2026-04-14T16:44:08+08:00",
+          "source": "list_feeds",
+          "keyword": "这是为什么呀 ",
+          "niche": "general",
+          "id": "69ddf2e00000000023004fb1",
+          "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITYKs-xNHAhNqYPXqGUwaRzY=",
+          "author": "momo（受计算机折磨版）",
+          "raw_title": "这是为什么呀",
+          "raw_desc": "为啥/**/注释不了多行啊\n#谁来教教我[话题]# #不懂就问系列[话题]#  #C语言入门[话题]# #VS[话题]#",
+          "published_at": "2026-04-14T15:55:12+08:00",
+          "hours_since_publish": 0.82,
+          "likedCount": 2,
+          "commentCount": 9,
+          "collectedCount": 2,
+          "proxy_ces": 40,
+          "pattern_summary": {
+            "hook_type": "提问 / 求建议",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": [
+              "为什么"
+            ],
+            "comment_trigger": "标题直接抛问题，让用户给建议或站队。",
+            "collect_trigger": "更多偏即时讨论，收藏价值次于评论价值。"
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": false
+          }
+        }
+      ]
+    },
+    {
+      "run_id": "2026-04-14-general-recent-1h-stream-001",
+      "captured_at": "2026-04-14T16:50:14+08:00",
+      "purpose": "recent_1h_breakouts",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱",
+        "副业",
+        "AI",
+        "科技",
+        "旅行",
+        "健身",
+        "情感",
+        "考研",
+        "最后一门课成绩出天塌了",
+        "精神小妹🦋考上清华 减",
+        "NTU硕 想毕业留新 约",
+        "林志颖儿子Kimi正脸近",
+        "高三生学习太差去医院竟检"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "selection_rule": "发布时间距抓取时间不超过 1 小时，并按 proxy_ces 排序。",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-general-recent-1h-stream-001",
+      "captured_at": "2026-04-14T16:56:21+08:00",
+      "purpose": "recent_1h_breakouts",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱",
+        "副业",
+        "AI",
+        "科技",
+        "旅行",
+        "健身",
+        "情感",
+        "考研",
+        "4.13 NUS Mco",
+        "金文泰附近nus五月起租",
+        "🇸🇬NUS 毕业后软",
+        "终于：精神小妹也是考上清",
+        "张雪峰的数据被做成了SK"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "selection_rule": "发布时间距抓取时间不超过 3 小时，且 proxy_ces >= 500。",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-global-30m-recent-001",
+      "captured_at": "2026-04-14T17:00:44+08:00",
+      "purpose": "recent_3h_breakouts",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱",
+        "副业",
+        "AI",
+        "科技",
+        "旅行",
+        "健身",
+        "情感",
+        "考研"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "selection_rule": "发布时间距抓取时间不超过 3 小时，且 proxy_ces >= 500。",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-global-30m-recent-001",
+      "captured_at": "2026-04-14T17:33:16+08:00",
+      "purpose": "recent_3h_breakouts",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱",
+        "副业",
+        "AI",
+        "科技",
+        "旅行",
+        "健身",
+        "情感",
+        "考研"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "selection_rule": "发布时间距抓取时间不超过 3 小时，且 proxy_ces >= 500。",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-global-30m-recent-001",
+      "captured_at": "2026-04-14T17:47:10+08:00",
+      "purpose": "recent_3h_breakouts",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "selection_rule": "发布时间距抓取时间不超过 3 小时，且 proxy_ces >= 500。",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14T18-27-35+08-00-homepage-recent-001",
+      "captured_at": "2026-04-14T18:27:35+08:00",
+      "purpose": "recent_3h_breakouts_homepage",
+      "niche": "general",
+      "keywords": [
+        "homepage"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "success",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 1,
+        "selection_rule": "首页流中发布时间距抓取时间不超过 3 小时，且 proxy_ces >= 500。",
+        "top_topics": [
+          {
+            "topic": "今天的星湖城 有人撒了100多w！！！！！",
+            "reason": "首页流里 2.29 小时内，proxy_ces=2178"
+          }
+        ]
+      },
+      "posts": [
+        {
+          "found_at": "2026-04-14T18:29:04+08:00",
+          "captured_at": "2026-04-14T18:29:04+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "career_work",
+          "id": "69ddf6af000000001f0045b9",
+          "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITfPoD5WsLxnDrpC6Q8DxPds=",
+          "author": "胡kaka",
+          "raw_title": "今天的星湖城 有人撒了100多w！！！！！",
+          "raw_desc": "活动截止了 大家安心上班！！！\n#汕头星湖城[话题]# #汕头[话题]# #汕头实况[话题]#",
+          "published_at": "2026-04-14T16:11:27+08:00",
+          "hours_since_publish": 2.29,
+          "likedCount": 600,
+          "commentCount": 370,
+          "collectedCount": 98,
+          "proxy_ces": 2178,
+          "pattern_summary": {
+            "hook_type": "争议 / 站队讨论",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        }
+      ]
+    },
+    {
+      "run_id": "2026-04-14T18-30-18+08-00-homepage-recent-001",
+      "captured_at": "2026-04-14T18:30:18+08:00",
+      "purpose": "recent_3h_breakouts_homepage",
+      "niche": "general",
+      "keywords": [
+        "homepage"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "success",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "selection_rule": "首页流中发布时间距抓取时间不超过 3 小时，且 proxy_ces >= 500。",
+        "top_topics": []
+      },
+      "posts": []
+    }
+  ]
+}

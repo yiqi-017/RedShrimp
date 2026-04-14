@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "run_id": "scan-trace-2026-04-14T18-27-35+08-00",
+  "started_at": "2026-04-14T18:27:35+08:00",
+  "updated_at": "2026-04-14T18:29:52+08:00",
+  "mode": "list_feeds_homepage",
+  "login_status": "logged_in",
+  "live_capture_file": "C:/Users/Hp/Desktop/y4s2/lab/RedShrimp/history/captured_posts_2026-04-14T18-27-35+08-00.txt",
+  "scanned_count": 6,
+  "recent_hits": 1,
+  "high_hits": 2,
+  "scans": [
+    {
+      "scanned_at": "2026-04-14T18:28:25+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "student_life",
+      "id": "69ddb47900000000220281bc",
+      "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITTcBn0x-ATwB3lAu6i0D3w4=",
+      "title": "这个世界需要ACM选手",
+      "author": "我想叫大彤",
+      "raw_desc": "ACM 校招 社招 实习\n年薪100w\n实习16k\n#ACM[话题]# #互联网大厂[话题]# #大学生竞赛[话题]# #决赛圈[话题]# #总决赛[话题]# #科技前沿与未来[话题]# #春招[话题]# #大模型[话题]# #实习[话题]# #校招[话题]#",
+      "published_at": "2026-04-14T11:28:57+08:00",
+      "hours_since_publish": 6.99,
+      "metrics": {
+        "likedCount": 2,
+        "commentCount": 0,
+        "collectedCount": 0,
+        "proxy_ces": 2
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:28:35+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69d72210000000002003ad33",
+      "xsecToken": "ABNeL_xX5K7heYC8ur8Jvu8IxKqbVzL5lQqCGSI1d47aY=",
+      "title": "两女养一娃的生活是什么体验？",
+      "author": "永远大一的老学姐",
+      "raw_desc": "#大学生[话题]##宝妈[话题]##带娃[话题]##家庭[话题]# #闺蜜[话题]##校园[话题]##养娃[话题]##研究生[话题]#",
+      "published_at": "2026-04-09T14:19:44+08:00",
+      "hours_since_publish": 124.15,
+      "metrics": {
+        "likedCount": 1683,
+        "commentCount": 400,
+        "collectedCount": 336,
+        "proxy_ces": 3619
+      },
+      "pattern_summary": {
+        "hook_type": "提问 / 求建议",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:28:45+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "money_side_hustle",
+      "id": "69dd8550000000001a02d935",
+      "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITR03JVJ9yZwLTup9bouMV0U=",
+      "title": "怒烧数亿后直接摊牌了",
+      "author": "Allan 的行研笔记📒",
+      "raw_desc": "昨夜得知，某上市公司旗下独立品牌，具身业务公司，近期会安排解散。\n\t\n大厂的算盘里没有不赚钱的数亿，否则股东是不好交代的。\n\t\n并不是所有上市公司都有条件在新业务上享受泡沫啊，还是建议大家不要迷信上市公司。\n\t\n具身智能有很多技术性挑战，对组织的冲击很大，千万不要相信稳定，创业和生意不一样，创业和稳定也不是一回事。\n\t\n#具身智能[话题]# #大模型[话题]# #人形机器人[话题]#",
+      "published_at": "2026-04-14T08:07:44+08:00",
+      "hours_since_publish": 10.35,
+      "metrics": {
+        "likedCount": 172,
+        "commentCount": 65,
+        "collectedCount": 84,
+        "proxy_ces": 516
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:28:55+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69ccbfa3000000002200e45b",
+      "xsecToken": "ABYi5FobPW_c7J1qJ6eXFEj71gIJgk5yezKdsXEye3c9A=",
+      "title": "🇸🇬教授竟然把我送他的放在了工位!!!",
+      "author": "小卡的定制相框小人",
+      "raw_desc": "[赞R]给咱们惊喜到了！教授竟然把我送的小礼物放在了工位[偷笑R]呜呜呜😭我的教授真的太好了！\n[害羞R] 愿您狮城生活超顺，学术一路开挂，桃李满天下，天天开心不加班，万事都顺心！\n\t\n#小卡的定制[话题]# #毕业礼物定制[话题]# #小卡的定制相框小人[话题]# #nus[话题]# #NUS[话题]# #nus留学[话题]# #nus毕业典礼[话题]# #NUS毕业照[话题]# #nus毕业季[话题]# #定制毕业礼物[话题]# @吃货薯 @商家薯 @薯队长@小红书创作助手 @小红书创作学院 creator academy @小红书成长笔记 @新品薯 @校园薯",
+      "published_at": "2026-04-01T14:48:04+08:00",
+      "hours_since_publish": 315.68,
+      "metrics": {
+        "likedCount": 348,
+        "commentCount": 17,
+        "collectedCount": 131,
+        "proxy_ces": 547
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:29:04+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "career_work",
+      "id": "69ddf6af000000001f0045b9",
+      "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITfPoD5WsLxnDrpC6Q8DxPds=",
+      "title": "今天的星湖城 有人撒了100多w！！！！！",
+      "author": "胡kaka",
+      "raw_desc": "活动截止了 大家安心上班！！！\n#汕头星湖城[话题]# #汕头[话题]# #汕头实况[话题]#",
+      "published_at": "2026-04-14T16:11:27+08:00",
+      "hours_since_publish": 2.29,
+      "metrics": {
+        "likedCount": 600,
+        "commentCount": 370,
+        "collectedCount": 98,
+        "proxy_ces": 2178
+      },
+      "pattern_summary": {
+        "hook_type": "争议 / 站队讨论",
+        "structure": "短句直给 / 快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": true,
+        "high_like_500": true
+      },
+      "verdict": {
+        "wrote_recent": true,
+        "wrote_high_like": true
+      }
+    },
+    {
+      "scanned_at": "2026-04-14T18:29:14+08:00",
+      "route": "list_feeds",
+      "keyword": "homepage",
+      "sort_by": "homepage",
+      "source": "list_feeds_homepage",
+      "niche": "study_abroad",
+      "id": "69dcd1eb00000000220259d9",
+      "xsecToken": "ABNvylDWLdDgQwwIavgw6mWXr3GUtljYvgA529xTjRZ-o=",
+      "title": "三选一｜NUS统计/DSS/UCL DSML",
+      "author": "不知葵瞪俩大眼睛",
+      "raw_desc": "已交NUS统计押金，现在在三个offer里疯狂纠结，求学长学姐给建议！\nNUS 统计\n✅ 数理基础扎实，可选修DS相关\n❌ 担心纯统计就业面窄，不如DS好求职\nNUS Data Science for Sustainability\n✅ 交叉学科，应用类课程占比很高，据说课程压力不大，可以兼顾实习\n❌ 据说缝合偏水，专业名带环境怕受限\nUCL Data Science & Machine Learning\n✅ 纯正DSML，技术向很对口\n❌ 学费贵，顾虑英国认可度\n有没有在读/毕业的同学说说真实就读体验和就业情况？非常感谢！孩子快纠结麻了🙏\n#ucl[话题]# #ucl硕士[话题]# #ucl申请[话题]# #nus[话题]# #nus硕士[话题]# #nus新加坡国立大学[话题]#",
+      "published_at": "2026-04-13T19:22:19+08:00",
+      "hours_since_publish": 23.12,
+      "metrics": {
+        "likedCount": 10,
+        "commentCount": 25,
+        "collectedCount": 1,
+        "proxy_ces": 111
+      },
+      "pattern_summary": {
+        "hook_type": "情绪表达 / 生活方式",
+        "structure": "分段叙述 / 情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "comments_loaded": false,
+        "has_more_comments": true
+      },
+      "thresholds": {
+        "recent_3h_proxy500": false,
+        "high_like_500": false
+      },
+      "verdict": {
+        "wrote_recent": false,
+        "wrote_high_like": false
+      }
+    }
+  ],
+  "status": "running",
+  "keywords": [
+    "homepage"
+  ],
+  "last_scan_at": "2026-04-14T18:29:14+08:00",
+  "last_scanned_title": "三选一｜NUS统计/DSS/UCL DSML",
+  "last_error": "list_feeds returned no note items"
+}

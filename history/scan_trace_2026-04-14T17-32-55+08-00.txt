@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "run_id": "scan-trace-2026-04-14",
+  "started_at": "2026-04-14T17:32:55+08:00",
+  "updated_at": "2026-04-14T17:33:16+08:00",
+  "observe_minutes": 30,
+  "fallback_after_minutes": 10,
+  "login_status": "logged_in",
+  "keywords": [
+    "打工人",
+    "职场",
+    "留学生",
+    "学生党",
+    "穿搭",
+    "美食",
+    "探店",
+    "搞钱",
+    "副业",
+    "AI",
+    "科技",
+    "旅行",
+    "健身",
+    "情感",
+    "考研"
+  ],
+  "scans": [],
+  "status": "running"
+}

@@ -1,0 +1,15 @@
+started | 2026-04-14T17:47:10+08:00
+thresholds | recent: 3h & proxy_ces>=500 | high_like: likedCount>=500
+keywords | 打工人 / 职场 / 留学生 / 学生党 / 穿搭 / 美食 / 探店 / 搞钱
+
+searching | 2026-04-14T17:47:27+08:00 | 打工人/最新
+search_failed | 2026-04-14T17:49:28+08:00 | 打工人/最新 | timeout of 120000ms exceeded
+searching | 2026-04-14T17:49:33+08:00 | 职场/最新
+search_failed | 2026-04-14T17:51:33+08:00 | 职场/最新 | timeout of 120000ms exceeded
+searching | 2026-04-14T17:51:38+08:00 | 留学生/最新
+search_failed | 2026-04-14T17:53:38+08:00 | 留学生/最新 | timeout of 120000ms exceeded
+searching | 2026-04-14T17:53:43+08:00 | 学生党/最新
+search_failed | 2026-04-14T17:55:43+08:00 | 学生党/最新 | timeout of 120000ms exceeded
+searching | 2026-04-14T17:55:48+08:00 | 穿搭/最新
+search_failed | 2026-04-14T17:57:49+08:00 | 穿搭/最新 | timeout of 120000ms exceeded
+searching | 2026-04-14T17:57:54+08:00 | 美食/最新

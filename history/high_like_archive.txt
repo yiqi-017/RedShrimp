@@ -1,0 +1,639 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-14T19:27:58+08:00",
+  "runs": [
+    {
+      "run_id": "2026-04-14-general-high-like-stream-001",
+      "captured_at": "2026-04-14T16:37:26+08:00",
+      "purpose": "historical_high_like_archive",
+      "niche": "general",
+      "keywords": [
+        "穿搭",
+        "打工人",
+        "美食",
+        "留学生",
+        "职场"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "threshold": "likedCount >= 5000",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-general-high-like-stream-001",
+      "captured_at": "2026-04-14T16:42:54+08:00",
+      "purpose": "historical_high_like_archive",
+      "niche": "general",
+      "keywords": [
+        "验证严格的纯mcomp",
+        "马来西亚TRX 大楼🇲",
+        "Ai infra 7年经",
+        "这周四SG留学生招聘会，",
+        "外国人找中国工作",
+        "nus ce maste",
+        "这是为什么呀",
+        "🇲🇾｜98年吉隆坡，",
+        "和Gemini聊了2天才",
+        "住酒店床头写的超清直播是",
+        "nus dsml提前批难",
+        "【独家】孙哥养了几只龙虾"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "threshold": "likedCount >= 5000",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-general-high-like-stream-001",
+      "captured_at": "2026-04-14T16:50:14+08:00",
+      "purpose": "historical_high_like_archive",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱",
+        "副业",
+        "AI",
+        "科技",
+        "旅行",
+        "健身",
+        "情感",
+        "考研",
+        "最后一门课成绩出天塌了",
+        "精神小妹🦋考上清华 减",
+        "NTU硕 想毕业留新 约",
+        "林志颖儿子Kimi正脸近",
+        "高三生学习太差去医院竟检"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "threshold": "likedCount >= 5000",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-general-high-like-stream-001",
+      "captured_at": "2026-04-14T16:56:21+08:00",
+      "purpose": "historical_high_like_archive",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱",
+        "副业",
+        "AI",
+        "科技",
+        "旅行",
+        "健身",
+        "情感",
+        "考研",
+        "4.13 NUS Mco",
+        "金文泰附近nus五月起租",
+        "🇸🇬NUS 毕业后软",
+        "终于：精神小妹也是考上清",
+        "张雪峰的数据被做成了SK"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 1,
+        "threshold": "likedCount >= 500",
+        "top_topics": [
+          {
+            "topic": "张雪峰的数据被做成了SKILL😳",
+            "reason": "798 赞，适合做历史爆款模板。"
+          }
+        ]
+      },
+      "posts": [
+        {
+          "found_at": "2026-04-14T16:57:27+08:00",
+          "captured_at": "2026-04-14T16:57:27+08:00",
+          "source": "list_feeds",
+          "keyword": "张雪峰的数据被做成了SK",
+          "niche": "general",
+          "id": "69d78ff6000000001d01ef4c",
+          "xsecToken": "ABNeL_xX5K7heYC8ur8Jvu8LyUrzqO_a_E18CdTBmCsPg=",
+          "author": "KaKaRen",
+          "raw_title": "张雪峰的数据被做成了SKILL😳",
+          "raw_desc": "一把抓住，倾刻炼化\n赛博万魂幡\n#openclaw[话题]# #张雪峰[话题]# #ai[话题]# #科技[话题]# #AIGC[话题]# #AI工具[话题]# #数码[话题]#",
+          "published_at": "2026-04-09T19:39:34+08:00",
+          "hours_since_publish": 117.3,
+          "likedCount": 798,
+          "commentCount": 134,
+          "collectedCount": 355,
+          "proxy_ces": 1689,
+          "pattern_summary": {
+            "hook_type": "情绪表达 / 生活方式",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": [],
+            "comment_trigger": "靠共鸣或反差触发用户补充自己的经历。",
+            "collect_trigger": "内容具备复用价值，用户会先存起来再慢慢看。"
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        }
+      ]
+    },
+    {
+      "run_id": "2026-04-14-global-30m-highlike-001",
+      "captured_at": "2026-04-14T17:00:44+08:00",
+      "purpose": "historical_high_like_archive",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱",
+        "副业",
+        "AI",
+        "科技",
+        "旅行",
+        "健身",
+        "情感",
+        "考研"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 1,
+        "threshold": "likedCount >= 500",
+        "top_topics": [
+          {
+            "topic": "更适合打工人的生活小技巧~",
+            "reason": "0 赞，高赞命中"
+          }
+        ]
+      },
+      "posts": [
+        {
+          "found_at": "2026-04-14T17:10:30+08:00",
+          "captured_at": "2026-04-14T17:10:30+08:00",
+          "source": "search_feeds_最多评论_fallback",
+          "keyword": "打工人",
+          "niche": "career_work",
+          "id": "69de01730000000023020cd9",
+          "xsecToken": "ABg4Q3LC_cedl4PIF8okpb1UEQFbjGk12djrM76rjBCM4=",
+          "author": "欧克洛泽",
+          "raw_title": "更适合打工人的生活小技巧~",
+          "raw_desc": "#给自己一点喘息的时间[话题]# #保持内心平静[话题]# #再忙也要好好休息[话题]# #打工人语录[话题]#",
+          "published_at": "2026-04-14T16:57:23+08:00",
+          "hours_since_publish": 0.22,
+          "likedCount": 0,
+          "commentCount": 0,
+          "collectedCount": 0,
+          "proxy_ces": 0,
+          "pattern_summary": {
+            "hook_type": "情绪表达 / 生活方式",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": false
+          },
+          "fallback_reason": "10分钟无命中，补抓当前最强帖子"
+        }
+      ]
+    },
+    {
+      "run_id": "2026-04-14-global-30m-highlike-001",
+      "captured_at": "2026-04-14T17:33:16+08:00",
+      "purpose": "historical_high_like_archive",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱",
+        "副业",
+        "AI",
+        "科技",
+        "旅行",
+        "健身",
+        "情感",
+        "考研"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "threshold": "likedCount >= 500",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14-global-30m-highlike-001",
+      "captured_at": "2026-04-14T17:47:10+08:00",
+      "purpose": "historical_high_like_archive",
+      "niche": "general",
+      "keywords": [
+        "打工人",
+        "职场",
+        "留学生",
+        "学生党",
+        "穿搭",
+        "美食",
+        "探店",
+        "搞钱"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "running",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 0,
+        "threshold": "likedCount >= 500",
+        "top_topics": []
+      },
+      "posts": []
+    },
+    {
+      "run_id": "2026-04-14T18-27-35+08-00-homepage-highlike-001",
+      "captured_at": "2026-04-14T18:27:35+08:00",
+      "purpose": "historical_high_like_archive_homepage",
+      "niche": "general",
+      "keywords": [
+        "homepage"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "success",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 2,
+        "threshold": "likedCount >= 500",
+        "top_topics": [
+          {
+            "topic": "两女养一娃的生活是什么体验？",
+            "reason": "首页流命中 1683 赞"
+          },
+          {
+            "topic": "今天的星湖城 有人撒了100多w！！！！！",
+            "reason": "首页流命中 600 赞"
+          }
+        ]
+      },
+      "posts": [
+        {
+          "found_at": "2026-04-14T18:28:35+08:00",
+          "captured_at": "2026-04-14T18:28:35+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "study_abroad",
+          "id": "69d72210000000002003ad33",
+          "xsecToken": "ABNeL_xX5K7heYC8ur8Jvu8IxKqbVzL5lQqCGSI1d47aY=",
+          "author": "永远大一的老学姐",
+          "raw_title": "两女养一娃的生活是什么体验？",
+          "raw_desc": "#大学生[话题]##宝妈[话题]##带娃[话题]##家庭[话题]# #闺蜜[话题]##校园[话题]##养娃[话题]##研究生[话题]#",
+          "published_at": "2026-04-09T14:19:44+08:00",
+          "hours_since_publish": 124.15,
+          "likedCount": 1683,
+          "commentCount": 400,
+          "collectedCount": 336,
+          "proxy_ces": 3619,
+          "pattern_summary": {
+            "hook_type": "提问 / 求建议",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        },
+        {
+          "found_at": "2026-04-14T18:29:04+08:00",
+          "captured_at": "2026-04-14T18:29:04+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "career_work",
+          "id": "69ddf6af000000001f0045b9",
+          "xsecToken": "ABlOfCG7FXwN3CHauqsa7ITfPoD5WsLxnDrpC6Q8DxPds=",
+          "author": "胡kaka",
+          "raw_title": "今天的星湖城 有人撒了100多w！！！！！",
+          "raw_desc": "活动截止了 大家安心上班！！！\n#汕头星湖城[话题]# #汕头[话题]# #汕头实况[话题]#",
+          "published_at": "2026-04-14T16:11:27+08:00",
+          "hours_since_publish": 2.29,
+          "likedCount": 600,
+          "commentCount": 370,
+          "collectedCount": 98,
+          "proxy_ces": 2178,
+          "pattern_summary": {
+            "hook_type": "争议 / 站队讨论",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        }
+      ]
+    },
+    {
+      "run_id": "2026-04-14T18-30-18+08-00-homepage-highlike-001",
+      "captured_at": "2026-04-14T18:30:18+08:00",
+      "purpose": "historical_high_like_archive_homepage",
+      "niche": "general",
+      "keywords": [
+        "homepage"
+      ],
+      "source_status": {
+        "mcp_connected": true,
+        "login_status": "logged_in",
+        "search_status": "success",
+        "detail_status": "partial_comments",
+        "failures": []
+      },
+      "summary": {
+        "candidate_count": 7,
+        "threshold": "likedCount >= 500",
+        "top_topics": [
+          {
+            "topic": "50岁的医学老专家使用claude code的感受",
+            "reason": "首页流命中 2476 赞"
+          },
+          {
+            "topic": "崽 为了给你改变基因 给你找了个181的爹",
+            "reason": "首页流命中 1197 赞"
+          },
+          {
+            "topic": "男生带皮筋证明有女朋友，那女生带什么证明",
+            "reason": "首页流命中 3493 赞"
+          }
+        ]
+      },
+      "posts": [
+        {
+          "found_at": "2026-04-14T18:33:03+08:00",
+          "captured_at": "2026-04-14T18:33:03+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "general",
+          "id": "69d32470000000001a02449e",
+          "xsecToken": "ABBDdUbZPNCpRDEV8BKyKYG9vc2AT1NEM9qkvkfw3fYCk=",
+          "author": "L（已有闺闺）",
+          "raw_title": "50岁的医学老专家使用claude code的感受",
+          "raw_desc": "#老专家[话题]# #医学科普[话题]# #人工智能[话题]# #医学科研[话题]# #ai医学[话题]# #智能体[话题]#",
+          "published_at": "2026-04-06T11:11:44+08:00",
+          "hours_since_publish": 199.36,
+          "likedCount": 2476,
+          "commentCount": 271,
+          "collectedCount": 1811,
+          "proxy_ces": 5371,
+          "pattern_summary": {
+            "hook_type": "情绪表达 / 生活方式",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        },
+        {
+          "found_at": "2026-04-14T18:33:23+08:00",
+          "captured_at": "2026-04-14T18:33:23+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "fashion_outfit",
+          "id": "69dcd580000000001d01d8c9",
+          "xsecToken": "ABNvylDWLdDgQwwIavgw6mWbWxx1SsQSC8G1DdXko9_cM=",
+          "author": "一妹er",
+          "raw_title": "崽 为了给你改变基因 给你找了个181的爹",
+          "raw_desc": "#146和181[话题]# #姐弟恋[话题]# #情侣穿搭[话题]#",
+          "published_at": "2026-04-13T19:37:36+08:00",
+          "hours_since_publish": 22.93,
+          "likedCount": 1197,
+          "commentCount": 2966,
+          "collectedCount": 138,
+          "proxy_ces": 13199,
+          "pattern_summary": {
+            "hook_type": "争议 / 站队讨论",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        },
+        {
+          "found_at": "2026-04-14T18:33:33+08:00",
+          "captured_at": "2026-04-14T18:33:33+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "general",
+          "id": "69db51700000000023026c26",
+          "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJcjbSeFFljegvazRxHs0x88E=",
+          "author": "阿伟很有趣",
+          "raw_title": "男生带皮筋证明有女朋友，那女生带什么证明",
+          "raw_desc": "#女生[话题]# #男女[话题]# #搞笑[话题]# #搞笑日常[话题]# #学生时代[话题]# #迷你世界[话题]# #迷你世界十周年[话题]#",
+          "published_at": "2026-04-12T16:01:52+08:00",
+          "hours_since_publish": 50.53,
+          "likedCount": 3493,
+          "commentCount": 1367,
+          "collectedCount": 512,
+          "proxy_ces": 9473,
+          "pattern_summary": {
+            "hook_type": "争议 / 站队讨论",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        },
+        {
+          "found_at": "2026-04-14T18:42:30+08:00",
+          "captured_at": "2026-04-14T18:42:30+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "food_dining",
+          "id": "69dbb255000000001a02c7cf",
+          "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJclog8zxu_VtrWNSidS8VL8A=",
+          "author": "RuikeasRick",
+          "raw_title": "清华食堂双轨制：一顿可以6.25，也可以25",
+          "raw_desc": "有几个朋友在跟我说，你们清华食堂六块钱可以吃的很好，但又朋友说来了之后发现其实多贵呀，原因就是清华食堂是双轨制。紫荆二楼的窗口由国家补贴，¥6.25确实就可以吃的很不错，图一就是打了三个菜，一两米饭，不到八块钱。但是也有一些市场化的窗口卖得比较贵，比如图二就要20多，图三早餐，四个烧卖就要15\n#大学食堂[话题]# #校园里的美食[话题]# #学校食堂[话题]# #食堂[话题]# #食堂打卡[话题]#",
+          "published_at": "2026-04-12T22:55:17+08:00",
+          "hours_since_publish": 43.79,
+          "likedCount": 2656,
+          "commentCount": 313,
+          "collectedCount": 300,
+          "proxy_ces": 4208,
+          "pattern_summary": {
+            "hook_type": "情绪表达 / 生活方式",
+            "structure": "先结论再展开",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        },
+        {
+          "found_at": "2026-04-14T19:25:27+08:00",
+          "captured_at": "2026-04-14T19:25:27+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "general",
+          "id": "69db6e0f0000000021011498",
+          "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJcm35aahh8n6onq0Qn3_cBN8=",
+          "author": "小宁姐姐",
+          "raw_title": "人间理想 我自己闯",
+          "raw_desc": "#小宁姐姐[话题]# #成长[话题]#",
+          "published_at": "2026-04-12T18:03:59+08:00",
+          "hours_since_publish": 49.36,
+          "likedCount": 575,
+          "commentCount": 137,
+          "collectedCount": 95,
+          "proxy_ces": 1218,
+          "pattern_summary": {
+            "hook_type": "情绪表达 / 生活方式",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        },
+        {
+          "found_at": "2026-04-14T19:27:19+08:00",
+          "captured_at": "2026-04-14T19:27:19+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "food_dining",
+          "id": "69d0bdf9000000001d01c7ea",
+          "xsecToken": "ABUQyC6HLls_a6IS8_JPv-43qbDxfzZxaBjDZruY05hUQ=",
+          "author": "nim",
+          "raw_title": "新加坡会惩罚每一个不提前预定约的P人",
+          "raw_desc": "4-5🈷️要去新加坡的姐妹！去之前一定要提前予约景点🎫不然容易白跑或者耽误时间\n#P人友好旅行[话题]# #新加坡旅游[话题]# #新加坡[话题]# #新加坡美食攻略[话题]# #新加坡旅游攻略[话题]# #旅游攻略[话题]# #新加坡生活[话题]# #大学生出国旅行[话题]##我的精神地标之旅[话题]# #新加坡🇸🇬[话题]#",
+          "published_at": "2026-04-04T15:30:01+08:00",
+          "hours_since_publish": 243.96,
+          "likedCount": 798,
+          "commentCount": 46,
+          "collectedCount": 1029,
+          "proxy_ces": 2011,
+          "pattern_summary": {
+            "hook_type": "清单 / 攻略",
+            "structure": "先结论再展开",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        },
+        {
+          "found_at": "2026-04-14T19:27:58+08:00",
+          "captured_at": "2026-04-14T19:27:58+08:00",
+          "source": "list_feeds_homepage",
+          "keyword": "homepage",
+          "niche": "career_work",
+          "id": "69dba4a800000000220270c9",
+          "xsecToken": "ABFeZ2MjWcq6PRjFoAtcKJco9IL1i7F94HM-C7eHH3shU=",
+          "author": "悉尼momo",
+          "raw_title": "澳洲码农蓝翔进修日记7-人生的第一块混凝土",
+          "raw_desc": "#RED新生代创作大赛[话题]#  #生活试验[话题]# #码农[话题]# #澳洲生活[话题]# #码农转行[话题]# #程序员[话题]# #悉尼生活[话题]# #澳洲蓝领[话题]# #躺平[话题]#",
+          "published_at": "2026-04-12T21:56:57+08:00",
+          "hours_since_publish": 45.52,
+          "likedCount": 3833,
+          "commentCount": 341,
+          "collectedCount": 1029,
+          "proxy_ces": 6226,
+          "pattern_summary": {
+            "hook_type": "情绪表达 / 生活方式",
+            "structure": "短句直给 / 快速表态",
+            "emotion_words": []
+          },
+          "capture_status": {
+            "detail_ok": true,
+            "comments_loaded": false,
+            "has_more_comments": true
+          }
+        }
+      ]
+    }
+  ]
+}
