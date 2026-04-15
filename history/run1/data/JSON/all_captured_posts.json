@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "dataset": "all_captured_posts",
+  "generated_at": "2026-04-16T01:58:47+08:00",
+  "captured_at": "2026-04-16T01:53:37+08:00",
+  "observe_minutes": 5,
+  "source_mode": "mcp_list_feeds_homepage",
+  "detail_mode": "mcp_get_feed_detail_non_dom_click",
+  "thresholds": {
+    "recent_hot": [
+      {
+        "key": "recent_hot_1h",
+        "hours": 1,
+        "min_ces": 300
+      },
+      {
+        "key": "recent_hot_3h",
+        "hours": 3,
+        "min_ces": 500
+      },
+      {
+        "key": "recent_hot_6h",
+        "hours": 6,
+        "min_ces": 800
+      },
+      {
+        "key": "recent_hot_12h",
+        "hours": 12,
+        "min_ces": 1200
+      },
+      {
+        "key": "recent_hot_1d",
+        "hours": 24,
+        "min_ces": 1800
+      }
+    ],
+    "high_ces_archive": {
+      "min_proxy_ces": 2500
+    }
+  },
+  "source_status": {
+    "mcp_connected": true,
+    "login_status": "unknown",
+    "search_status": "success",
+    "detail_status": "tool_detail_non_dom_click",
+    "feed_failures": 0,
+    "detail_failures": 0,
+    "limitations": [
+      "no_explicit_click_tool",
+      "no_back_tool",
+      "no_scroll_tool"
+    ]
+  },
+  "count": 9,
+  "posts": [
+    {
+      "found_at": "2026-04-16T01:54:27+08:00",
+      "captured_at": "2026-04-16T01:54:27+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "63e4e7f20000000008025c50",
+      "xsecToken": "ABIWQhYx3wD4EtuUmM9hfHoB2VPfbNjvrEH6SQvZ8-igM=",
+      "author": "芒果很忙📷",
+      "raw_title": "拜托！这个滤镜真的太适合拍头像啦，快去用！",
+      "raw_desc": "滤镜教程在最后两张图\n\t\n真的吼吼看！！！！\n\t\n#胶片风摄影[话题]# #笔记灵感[话题]# #儿童摄影[话题]# #来拍照了[话题]# #滤镜调色教程[话题]# #头像[话题]# #搞怪头像[话题]# #微信头像[话题]#",
+      "published_at": "2023-02-09T20:32:50+08:00",
+      "hours_since_publish": 27869.36,
+      "likedCount": 0,
+      "commentCount": 721,
+      "collectedCount": 0,
+      "proxy_ces": 2884,
+      "pattern_summary": {
+        "hook_type": "争议/站队讨论",
+        "structure": "分段叙述/情绪展开",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": true,
+        "loaded_comment_count": 10,
+        "has_more_comments": true,
+        "sample_comments": [
+          "好可爱啊 礼貌拿图当头像",
+          "我好努力地往后翻",
+          "旧照二 在哪里 咋没看到"
+        ]
+      },
+      "url": "https://www.xiaohongshu.com/explore/63e4e7f20000000008025c50?xsec_token=ABIWQhYx3wD4EtuUmM9hfHoB2VPfbNjvrEH6SQvZ8-igM%3D"
+    },
+    {
+      "found_at": "2026-04-16T01:54:46+08:00",
+      "captured_at": "2026-04-16T01:54:46+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "640c09bb00000000110106f8",
+      "xsecToken": "ABDqV1xAR3SEoDdoB40_yD0-LRHO2e0S2yUI0MwgF4g2o=",
+      "author": "仲夏草莓",
+      "raw_title": "一碗猫",
+      "raw_desc": "#猫咪日常[话题]#",
+      "published_at": "2023-03-11T12:55:23+08:00",
+      "hours_since_publish": 27156.99,
+      "likedCount": 0,
+      "commentCount": 2502,
+      "collectedCount": 2239,
+      "proxy_ces": 12247,
+      "pattern_summary": {
+        "hook_type": "情绪表达/生活方式",
+        "structure": "短句直给/快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": true,
+        "loaded_comment_count": 10,
+        "has_more_comments": true,
+        "sample_comments": [
+          "请问可以拿来做wechat的头像吗",
+          "哈哈哈哈哈哈他叫啥名字呀",
+          "@"
+        ]
+      },
+      "url": "https://www.xiaohongshu.com/explore/640c09bb00000000110106f8?xsec_token=ABDqV1xAR3SEoDdoB40_yD0-LRHO2e0S2yUI0MwgF4g2o%3D"
+    },
+    {
+      "found_at": "2026-04-16T01:55:04+08:00",
+      "captured_at": "2026-04-16T01:55:04+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "64be8e7c000000001701989a",
+      "xsecToken": "AB4WKomGNOpXElUp9JeeYTeMlm5QmNm1gmH15SUABH5Ik=",
+      "author": "Littlecozyzone",
+      "raw_title": "左滑帮我烧制吧～ ",
+      "raw_desc": "",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": 0,
+      "commentCount": 0,
+      "collectedCount": 0,
+      "proxy_ces": 0,
+      "pattern_summary": {
+        "hook_type": "情绪表达/生活方式",
+        "structure": "短句直给/快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": false,
+        "loaded_comment_count": 0,
+        "has_more_comments": false,
+        "sample_comments": []
+      },
+      "url": "https://www.xiaohongshu.com/explore/64be8e7c000000001701989a?xsec_token=AB4WKomGNOpXElUp9JeeYTeMlm5QmNm1gmH15SUABH5Ik%3D"
+    },
+    {
+      "found_at": "2026-04-16T01:55:26+08:00",
+      "captured_at": "2026-04-16T01:55:26+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "63da39850000000008024581",
+      "xsecToken": "ABl3kd1TyBCHvGyy7afYR8GVbA1zi0uhTD-viz4LxEpls=",
+      "author": "阿蒙",
+      "raw_title": "适合不会化妆➕普通长相的单眼皮女孩妆容",
+      "raw_desc": "",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": 0,
+      "commentCount": 0,
+      "collectedCount": 0,
+      "proxy_ces": 0,
+      "pattern_summary": {
+        "hook_type": "情绪表达/生活方式",
+        "structure": "短句直给/快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": false,
+        "loaded_comment_count": 0,
+        "has_more_comments": false,
+        "sample_comments": []
+      },
+      "url": "https://www.xiaohongshu.com/explore/63da39850000000008024581?xsec_token=ABl3kd1TyBCHvGyy7afYR8GVbA1zi0uhTD-viz4LxEpls%3D"
+    },
+    {
+      "found_at": "2026-04-16T01:56:38+08:00",
+      "captured_at": "2026-04-16T01:56:38+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "64abee8c00000000230345e5",
+      "xsecToken": "ABtBwHcu7rrk2ZOH0uuALyQD3BzdRkHHuAthUwWt_RR3g=",
+      "author": "超可爱小洁",
+      "raw_title": "新手正确化妆顺序来啦～",
+      "raw_desc": "",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": 0,
+      "commentCount": 0,
+      "collectedCount": 0,
+      "proxy_ces": 0,
+      "pattern_summary": {
+        "hook_type": "情绪表达/生活方式",
+        "structure": "短句直给/快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": false,
+        "loaded_comment_count": 0,
+        "has_more_comments": false,
+        "sample_comments": []
+      },
+      "url": "https://www.xiaohongshu.com/explore/64abee8c00000000230345e5?xsec_token=ABtBwHcu7rrk2ZOH0uuALyQD3BzdRkHHuAthUwWt_RR3g%3D"
+    },
+    {
+      "found_at": "2026-04-16T01:56:58+08:00",
+      "captured_at": "2026-04-16T01:56:58+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "63e5cacd0000000018013514",
+      "xsecToken": "ABRhnpAFNW8WrfngNtHRzoc8pRubY263Zm4GDgLhwWOg0=",
+      "author": "鹿茸汤",
+      "raw_title": "笑容养成计划😆4小技巧轻松速成上镜脸～",
+      "raw_desc": "",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": 0,
+      "commentCount": 0,
+      "collectedCount": 0,
+      "proxy_ces": 0,
+      "pattern_summary": {
+        "hook_type": "情绪表达/生活方式",
+        "structure": "短句直给/快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": false,
+        "loaded_comment_count": 0,
+        "has_more_comments": false,
+        "sample_comments": []
+      },
+      "url": "https://www.xiaohongshu.com/explore/63e5cacd0000000018013514?xsec_token=ABRhnpAFNW8WrfngNtHRzoc8pRubY263Zm4GDgLhwWOg0%3D"
+    },
+    {
+      "found_at": "2026-04-16T01:57:14+08:00",
+      "captured_at": "2026-04-16T01:57:14+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "64a149a6000000001402466d",
+      "xsecToken": "ABAPu45bW13_SwHPWPuws4uFMxHkqZGk4N-_CNSFmuRaQ=",
+      "author": "辛巳✨",
+      "raw_title": "辣味淡妆｜黄黑皮也能轻松驾驭的清透感！",
+      "raw_desc": "",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": 0,
+      "commentCount": 0,
+      "collectedCount": 0,
+      "proxy_ces": 0,
+      "pattern_summary": {
+        "hook_type": "情绪表达/生活方式",
+        "structure": "短句直给/快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": false,
+        "loaded_comment_count": 0,
+        "has_more_comments": false,
+        "sample_comments": []
+      },
+      "url": "https://www.xiaohongshu.com/explore/64a149a6000000001402466d?xsec_token=ABAPu45bW13_SwHPWPuws4uFMxHkqZGk4N-_CNSFmuRaQ%3D"
+    },
+    {
+      "found_at": "2026-04-16T01:57:30+08:00",
+      "captured_at": "2026-04-16T01:57:30+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "645cd8340000000014024a5c",
+      "xsecToken": "ABho-zF_Jgw0LOiTT7J_5Y47a4Djcr-jBapCX4E1nQVNg=",
+      "author": "临沂安岚甄选映画婚纱摄影工作室",
+      "raw_title": "终于找到了全家福都喜欢的喜假风婚纱照",
+      "raw_desc": "",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": 0,
+      "commentCount": 0,
+      "collectedCount": 0,
+      "proxy_ces": 0,
+      "pattern_summary": {
+        "hook_type": "情绪表达/生活方式",
+        "structure": "短句直给/快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": false,
+        "loaded_comment_count": 0,
+        "has_more_comments": false,
+        "sample_comments": []
+      },
+      "url": "https://www.xiaohongshu.com/explore/645cd8340000000014024a5c?xsec_token=ABho-zF_Jgw0LOiTT7J_5Y47a4Djcr-jBapCX4E1nQVNg%3D"
+    },
+    {
+      "found_at": "2026-04-16T01:58:41+08:00",
+      "captured_at": "2026-04-16T01:58:41+08:00",
+      "source": "list_feeds_homepage",
+      "keyword": "homepage",
+      "niche": "general",
+      "id": "642125bc0000000013007e64",
+      "xsecToken": "ABe4gWUH7BK_r6Kgr8MkH2KNTl89Y1y6_qCuKPady5FxI=",
+      "author": "达达达布溜",
+      "raw_title": "打算结婚的时候就穿这个",
+      "raw_desc": "",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": 0,
+      "commentCount": 0,
+      "collectedCount": 0,
+      "proxy_ces": 0,
+      "pattern_summary": {
+        "hook_type": "情绪表达/生活方式",
+        "structure": "短句直给/快速表态",
+        "emotion_words": []
+      },
+      "capture_status": {
+        "detail_ok": true,
+        "detail_mode": "mcp_get_feed_detail_non_dom_click",
+        "detail_boundary_note": "详情来自 MCP get_feed_detail；当前非真实浏览器点击卡片进入详情页。",
+        "comments_loaded": false,
+        "loaded_comment_count": 0,
+        "has_more_comments": false,
+        "sample_comments": []
+      },
+      "url": "https://www.xiaohongshu.com/explore/642125bc0000000013007e64?xsec_token=ABe4gWUH7BK_r6Kgr8MkH2KNTl89Y1y6_qCuKPady5FxI%3D"
+    }
+  ]
+}

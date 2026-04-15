@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "dataset": "recent_hot_3h",
+  "generated_at": "2026-04-16T01:58:47+08:00",
+  "captured_at": "2026-04-16T01:53:37+08:00",
+  "observe_minutes": 5,
+  "source_mode": "mcp_list_feeds_homepage",
+  "detail_mode": "mcp_get_feed_detail_non_dom_click",
+  "thresholds": {
+    "recent_hot": [
+      {
+        "key": "recent_hot_1h",
+        "hours": 1,
+        "min_ces": 300
+      },
+      {
+        "key": "recent_hot_3h",
+        "hours": 3,
+        "min_ces": 500
+      },
+      {
+        "key": "recent_hot_6h",
+        "hours": 6,
+        "min_ces": 800
+      },
+      {
+        "key": "recent_hot_12h",
+        "hours": 12,
+        "min_ces": 1200
+      },
+      {
+        "key": "recent_hot_1d",
+        "hours": 24,
+        "min_ces": 1800
+      }
+    ],
+    "high_ces_archive": {
+      "min_proxy_ces": 2500
+    }
+  },
+  "source_status": {
+    "mcp_connected": true,
+    "login_status": "unknown",
+    "search_status": "success",
+    "detail_status": "tool_detail_non_dom_click",
+    "feed_failures": 0,
+    "detail_failures": 0,
+    "limitations": [
+      "no_explicit_click_tool",
+      "no_back_tool",
+      "no_scroll_tool"
+    ]
+  },
+  "count": 0,
+  "posts": []
+}

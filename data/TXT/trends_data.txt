@@ -1,0 +1,35 @@
+dataset | trends_data
+generated_at | 2026-04-16T02:09:09+08:00
+captured_at | 2026-04-16T02:09:09+08:00
+observe_minutes | 0
+scanned_count | 2
+source_mode | webscan_dom_text_strategy
+detail_mode | webscan_dom_text_no_detail
+
+top_niches | general:2
+top_hook_types | 待补充:2
+top_emotion_words | 
+
+# top_post_1
+title | 一家三口在新加坡，8000新币的简单生活 Grace的移民生活 58
+author | 
+id | 69de1680000000002302125b
+niche | general
+published_at | 
+hours_since_publish | 
+liked | 
+comment | 
+collect | 
+proxy_ces | 0
+
+# top_post_2
+title | 大模型不行了 机器人学家小鑫鑫 14
+author | 
+id | 69df9ba6000000001a027219
+niche | general
+published_at | 
+hours_since_publish | 
+liked | 
+comment | 
+collect | 
+proxy_ces | 0

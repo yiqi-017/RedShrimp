@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "run_started_at": "2026-04-16T01:53:37+08:00",
+  "run_finished_at": "2026-04-16T01:58:47+08:00",
+  "observe_minutes": 5,
+  "history_run_dir": "C:\\Users\\Hp\\Desktop\\y4s2\\lab\\RedShrimp\\history\\run1",
+  "scanned_count": 9,
+  "recent_counts": {
+    "recent_hot_1h": 0,
+    "recent_hot_3h": 0,
+    "recent_hot_6h": 0,
+    "recent_hot_12h": 0,
+    "recent_hot_1d": 0
+  },
+  "high_ces_count": 2,
+  "source_status": {
+    "mcp_connected": true,
+    "login_status": "unknown",
+    "search_status": "success",
+    "detail_status": "tool_detail_non_dom_click",
+    "feed_failures": 0,
+    "detail_failures": 0,
+    "limitations": [
+      "no_explicit_click_tool",
+      "no_back_tool",
+      "no_scroll_tool"
+    ]
+  }
+}

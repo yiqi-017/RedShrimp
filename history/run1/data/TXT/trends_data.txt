@@ -1,0 +1,21 @@
+dataset | trends_data
+generated_at | 2026-04-16T01:58:47+08:00
+captured_at | 2026-04-16T01:53:37+08:00
+observe_minutes | 5
+scanned_count | 9
+source_mode | mcp_list_feeds_homepage
+detail_mode | mcp_get_feed_detail_non_dom_click
+
+top_niches | general:9
+top_hook_types | 情绪表达/生活方式:8, 争议/站队讨论:1
+top_emotion_words | 
+
+# top_post_1 | 一碗猫 | ces=12247 | niche=general | 2023-03-11T12:55:23+08:00
+# top_post_2 | 拜托！这个滤镜真的太适合拍头像啦，快去用！ | ces=2884 | niche=general | 2023-02-09T20:32:50+08:00
+# top_post_3 | 左滑帮我烧制吧～ | ces=0 | niche=general | 
+# top_post_4 | 适合不会化妆➕普通长相的单眼皮女孩妆容 | ces=0 | niche=general | 
+# top_post_5 | 新手正确化妆顺序来啦～ | ces=0 | niche=general | 
+# top_post_6 | 笑容养成计划😆4小技巧轻松速成上镜脸～ | ces=0 | niche=general | 
+# top_post_7 | 辣味淡妆｜黄黑皮也能轻松驾驭的清透感！ | ces=0 | niche=general | 
+# top_post_8 | 终于找到了全家福都喜欢的喜假风婚纱照 | ces=0 | niche=general | 
+# top_post_9 | 打算结婚的时候就穿这个 | ces=0 | niche=general | 

@@ -1,0 +1,7 @@
+dataset | recent_hot_1h
+generated_at | 2026-04-16T01:58:47+08:00
+captured_at | 2026-04-16T01:53:37+08:00
+observe_minutes | 5
+count | 0
+source_mode | mcp_list_feeds_homepage
+detail_mode | mcp_get_feed_detail_non_dom_click

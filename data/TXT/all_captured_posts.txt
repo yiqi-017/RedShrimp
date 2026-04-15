@@ -1,0 +1,43 @@
+dataset | all_captured_posts
+generated_at | 2026-04-16T02:09:09+08:00
+captured_at | 2026-04-16T02:09:09+08:00
+observe_minutes | 0
+count | 2
+source_mode | webscan_dom_text_strategy
+detail_mode | webscan_dom_text_no_detail
+
+# 1
+title | 一家三口在新加坡，8000新币的简单生活 Grace的移民生活 58
+author | 
+id | 69de1680000000002302125b
+published_at | 
+hours_since_publish | 
+liked | 
+comment | 
+collect | 
+proxy_ces | 0
+niche | general
+hook_type | 待补充
+structure | 标题直出/首屏卡片
+emotion_words | 
+capture_status | webscan_dom_text_no_detail
+url | https://www.xiaohongshu.com/explore/69de1680000000002302125b?xsec_token=ABCowlLzAdHdY5TdNecIEe4G1TQ1mRIjEzgzK6ZSQpeic=&xsec_source=pc_feed
+desc | 
+
+# 2
+title | 大模型不行了 机器人学家小鑫鑫 14
+author | 
+id | 69df9ba6000000001a027219
+published_at | 
+hours_since_publish | 
+liked | 
+comment | 
+collect | 
+proxy_ces | 0
+niche | general
+hook_type | 待补充
+structure | 标题直出/首屏卡片
+emotion_words | 
+capture_status | webscan_dom_text_no_detail
+url | https://www.xiaohongshu.com/explore/69df9ba6000000001a027219?xsec_token=ABbXAQ6N4uE3u9g8uH8splTipLNuJ2FvVJ3lhlHfpmEfM=&xsec_source=pc_feed
+desc |

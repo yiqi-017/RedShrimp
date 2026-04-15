@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "dataset": "trends_data",
+  "generated_at": "2026-04-16T02:09:09+08:00",
+  "captured_at": "2026-04-16T02:09:09+08:00",
+  "observe_minutes": 0,
+  "scanned_count": 2,
+  "source_mode": "webscan_dom_text_strategy",
+  "detail_mode": "webscan_dom_text_no_detail",
+  "thresholds": {
+    "recent_hot": [
+      {
+        "key": "recent_hot_1h",
+        "hours": 1,
+        "min_ces": 300
+      },
+      {
+        "key": "recent_hot_3h",
+        "hours": 3,
+        "min_ces": 500
+      },
+      {
+        "key": "recent_hot_6h",
+        "hours": 6,
+        "min_ces": 800
+      },
+      {
+        "key": "recent_hot_12h",
+        "hours": 12,
+        "min_ces": 1200
+      },
+      {
+        "key": "recent_hot_1d",
+        "hours": 24,
+        "min_ces": 1800
+      }
+    ],
+    "high_ces_archive": {
+      "min_proxy_ces": 2500
+    }
+  },
+  "top_niches": [
+    {
+      "name": "general",
+      "count": 2
+    }
+  ],
+  "top_hook_types": [
+    {
+      "name": "待补充",
+      "count": 2
+    }
+  ],
+  "top_emotion_words": [],
+  "top_posts_by_proxy_ces": [
+    {
+      "id": "69de1680000000002302125b",
+      "title": "一家三口在新加坡，8000新币的简单生活 Grace的移民生活 58",
+      "author": "",
+      "niche": "general",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": null,
+      "commentCount": null,
+      "collectedCount": null,
+      "proxy_ces": 0
+    },
+    {
+      "id": "69df9ba6000000001a027219",
+      "title": "大模型不行了 机器人学家小鑫鑫 14",
+      "author": "",
+      "niche": "general",
+      "published_at": null,
+      "hours_since_publish": null,
+      "likedCount": null,
+      "commentCount": null,
+      "collectedCount": null,
+      "proxy_ces": 0
+    }
+  ]
+}

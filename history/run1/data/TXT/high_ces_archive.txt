@@ -1,0 +1,43 @@
+dataset | high_ces_archive
+generated_at | 2026-04-16T01:58:47+08:00
+captured_at | 2026-04-16T01:53:37+08:00
+observe_minutes | 5
+count | 2
+source_mode | mcp_list_feeds_homepage
+detail_mode | mcp_get_feed_detail_non_dom_click
+
+# 1
+title | 拜托！这个滤镜真的太适合拍头像啦，快去用！
+author | 芒果很忙📷
+id | 63e4e7f20000000008025c50
+published_at | 2023-02-09T20:32:50+08:00
+hours_since_publish | 27869.36
+liked | 0
+comment | 721
+collect | 0
+proxy_ces | 2884
+niche | general
+hook_type | 争议/站队讨论
+structure | 分段叙述/情绪展开
+emotion_words | 
+capture_status | mcp_get_feed_detail_non_dom_click
+url | https://www.xiaohongshu.com/explore/63e4e7f20000000008025c50?xsec_token=ABIWQhYx3wD4EtuUmM9hfHoB2VPfbNjvrEH6SQvZ8-igM%3D
+desc | 滤镜教程在最后两张图 真的吼吼看！！！！ #胶片风摄影[话题]# #笔记灵感[话题]# #儿童摄影[话题]# #来拍照了[话题]# #滤镜调色教程[话题]# #头像[话题]# #搞怪头像[话题]# #微信头像[话题]#
+
+# 2
+title | 一碗猫
+author | 仲夏草莓
+id | 640c09bb00000000110106f8
+published_at | 2023-03-11T12:55:23+08:00
+hours_since_publish | 27156.99
+liked | 0
+comment | 2502
+collect | 2239
+proxy_ces | 12247
+niche | general
+hook_type | 情绪表达/生活方式
+structure | 短句直给/快速表态
+emotion_words | 
+capture_status | mcp_get_feed_detail_non_dom_click
+url | https://www.xiaohongshu.com/explore/640c09bb00000000110106f8?xsec_token=ABDqV1xAR3SEoDdoB40_yD0-LRHO2e0S2yUI0MwgF4g2o%3D
+desc | #猫咪日常[话题]#
