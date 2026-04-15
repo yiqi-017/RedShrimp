@@ -2,9 +2,9 @@ const axios = require('axios');
 const fs = require('fs');
 
 const MCP_URL = 'http://localhost:18060/mcp';
-const HISTORY_DIR = 'C:/Users/Hp/Desktop/y4s2/lab/RedShrimp/history';
-const RECENT_FILE = `${HISTORY_DIR}/recent_1h_breakouts.txt`;
-const HIGHLIKE_FILE = `${HISTORY_DIR}/high_like_archive.txt`;
+const DATA_DIR = 'C:/Users/Hp/Desktop/y4s2/lab/RedShrimp/data';
+const RECENT_FILE = `${DATA_DIR}/recent_1h_breakouts.txt`;
+const HIGHLIKE_FILE = `${DATA_DIR}/high_like_archive.txt`;
 const OBSERVE_MINUTES = 60;
 const OBSERVE_MS = OBSERVE_MINUTES * 60 * 1000;
 const FEED_TIMEOUT_MS = 90000;
@@ -176,7 +176,7 @@ function appendPost(doc, filePath, run, post) {
 }
 
 function initTraceFile(runStartedAt) {
-  const traceFile = `${HISTORY_DIR}/scan_trace_${safeTimestamp(runStartedAt)}.txt`;
+  const traceFile = `${DATA_DIR}/scan_trace_${safeTimestamp(runStartedAt)}.txt`;
   const traceDoc = {
     version: 1,
     run_id: `scan-trace-${safeTimestamp(runStartedAt)}`,
@@ -246,7 +246,7 @@ function buildTraceRecord(post) {
 }
 
 function initLiveCaptureFile(runStartedAt) {
-  const liveCaptureFile = `${HISTORY_DIR}/captured_posts_${safeTimestamp(runStartedAt)}.txt`;
+  const liveCaptureFile = `${DATA_DIR}/captured_posts_${safeTimestamp(runStartedAt)}.txt`;
   fs.writeFileSync(liveCaptureFile, '', 'utf8');
   appendLine(liveCaptureFile, `started | ${runStartedAt}`);
   appendLine(liveCaptureFile, 'mode | list_feeds_homepage');

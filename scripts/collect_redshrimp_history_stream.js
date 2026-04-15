@@ -2,8 +2,8 @@ const axios = require('axios');
 const fs = require('fs');
 
 const MCP_URL = 'http://localhost:18060/mcp';
-const RECENT_FILE = 'C:/Users/Hp/Desktop/y4s2/lab/RedShrimp/history/recent_1h_breakouts.txt';
-const HIGHLIKE_FILE = 'C:/Users/Hp/Desktop/y4s2/lab/RedShrimp/history/high_like_archive.txt';
+const RECENT_FILE = 'C:/Users/Hp/Desktop/y4s2/lab/RedShrimp/data/recent_1h_breakouts.txt';
+const HIGHLIKE_FILE = 'C:/Users/Hp/Desktop/y4s2/lab/RedShrimp/data/high_like_archive.txt';
 
 const GLOBAL_KEYWORDS = [
   ['打工人', 'career_work'],
